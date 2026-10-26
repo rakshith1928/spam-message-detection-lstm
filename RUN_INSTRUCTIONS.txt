@@ -1,0 +1,66 @@
+================================================================
+ SPAM MESSAGE DETECTION USING LSTM - HOW TO RUN
+================================================================
+
+The dataset (UCI SMS Spam Collection, 5,572 messages) is already
+included in the data/ folder - nothing to download.
+
+----------------------------------------------------------------
+ STEP 0 - Requirements
+----------------------------------------------------------------
+- Python 3.10 or newer
+- pip install -r requirements.txt
+  (torch, pandas, numpy, scikit-learn, matplotlib, seaborn)
+
+No GPU needed - the model trains on a normal CPU in about 2 minutes.
+
+----------------------------------------------------------------
+ STEP 1 - Run the full pipeline (one command)
+----------------------------------------------------------------
+    python run_all.py
+
+This executes, in order:
+    [1/5] prepare_data.py   clean text, split 70/15/15, build vocabulary
+    [2/5] train_lstm.py     train the LSTM (12 epochs, keeps best model)
+    [3/5] evaluate.py       test-set metrics + Naive Bayes baseline
+    [4/5] predict_demo.py   classify 8 brand-new example messages
+    [5/5] visualise.py      generate the 6 report charts
+
+----------------------------------------------------------------
+ STEP 2 - Run steps individually (optional)
+----------------------------------------------------------------
+Each script can also be run on its own, in this order:
+    python prepare_data.py
+    python train_lstm.py
+    python evaluate.py
+    python predict_demo.py
+    python visualise.py
+
+----------------------------------------------------------------
+ STEP 3 - Launch the Streamlit dashboard (showcase)
+----------------------------------------------------------------
+    streamlit run streamlit_app.py
+  Then open http://localhost:8501 to classify any message live.
+
+----------------------------------------------------------------
+ Outputs (created in outputs/)
+----------------------------------------------------------------
+    model_best.pt           trained LSTM weights (best val F1)
+    metrics.json            accuracy / precision / recall / F1 / AUC
+    history.json            per-epoch training history
+    test_predictions.csv    probability for every test message
+    console_output.txt      full pipeline log of the last run
+    charts/fig1..fig6.png   report charts
+    train.csv / val.csv / test.csv / vocab.json / data_stats.json
+
+----------------------------------------------------------------
+ Expected results (deterministic, seed = 42)
+----------------------------------------------------------------
+    Test accuracy  : ~0.983        F1 (spam) : ~0.936
+    Precision      : ~0.963        ROC-AUC   : ~0.986
+    Recall         : ~0.912
+    Confusion (837 test msgs): TN=720, FP=4, FN=10, TP=103
+
+If you re-train, numbers should match exactly on CPU because every
+random generator is seeded (seed = 42).
+================================================================

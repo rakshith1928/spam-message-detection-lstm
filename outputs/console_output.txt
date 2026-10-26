@@ -1,0 +1,80 @@
+
+================ [ 1/5 ] prepare_data.py ================
+Loaded 5572 messages  (ham = 4825, spam = 747, spam ratio = 13.4%)
+Message length (tokens): mean ham = 14.85, mean spam = 27.0, 95th pct = 35, 99th pct = 56, max = 190
+train:  3899 messages  (522 spam, 3377 ham)
+  val:   836 messages  (112 spam, 724 ham)
+ test:   837 messages  (113 spam, 724 ham)
+Vocabulary size = 3231 (min_freq = 2), train-token coverage = 94.5%
+Saved outputs/: train.csv, val.csv, test.csv, vocab.json, data_stats.json
+--- prepare_data.py finished in 1.7s ---
+
+================ [ 2/5 ] train_lstm.py ================
+Model: Embedding(3231, 100) -> LSTM(128) -> Dropout(0.5) -> Linear(128, 1)
+Trainable parameters: 440,989
+class imbalance handled with pos_weight = 6.469
+Epoch  1/12 | train loss 0.5668 acc 0.8728 | val loss 0.3838 acc 0.9366 F1 0.7922  <- saved (best val F1)
+Epoch  2/12 | train loss 0.2563 acc 0.9692 | val loss 0.2855 acc 0.9749 F1 0.9058  <- saved (best val F1)
+Epoch  3/12 | train loss 0.1507 acc 0.9795 | val loss 0.2226 acc 0.9737 F1 0.9043
+Epoch  4/12 | train loss 0.0907 acc 0.9890 | val loss 0.2582 acc 0.9785 F1 0.9196  <- saved (best val F1)
+Epoch  5/12 | train loss 0.0594 acc 0.9908 | val loss 0.2776 acc 0.9713 F1 0.8957
+Epoch  6/12 | train loss 0.0295 acc 0.9964 | val loss 0.3290 acc 0.9713 F1 0.8966
+Epoch  7/12 | train loss 0.0125 acc 0.9979 | val loss 0.3936 acc 0.9725 F1 0.9004
+Epoch  8/12 | train loss 0.0146 acc 0.9969 | val loss 0.3271 acc 0.9629 F1 0.8703
+Epoch  9/12 | train loss 0.0100 acc 0.9990 | val loss 0.4380 acc 0.9833 F1 0.9369  <- saved (best val F1)
+Epoch 10/12 | train loss 0.0051 acc 0.9995 | val loss 0.4923 acc 0.9868 F1 0.9498  <- saved (best val F1)
+Epoch 11/12 | train loss 0.0038 acc 0.9995 | val loss 0.5277 acc 0.9844 F1 0.9412
+Epoch 12/12 | train loss 0.0037 acc 0.9995 | val loss 0.5291 acc 0.9809 F1 0.9286
+Training finished. Best validation F1 = 0.9498. Model saved to outputs/model_best.pt
+--- train_lstm.py finished in 82.8s ---
+
+================ [ 3/5 ] evaluate.py ================
+==============================================================
+LSTM RESULTS ON TEST SET (837 messages)
+==============================================================
+Accuracy : 0.9833
+Precision: 0.9626   (of predicted spam, how much really spam)
+Recall   : 0.9115   (of real spam, how much was caught)
+F1-score : 0.9364
+ROC-AUC  : 0.9863
+--------------------------------------------------------------
+Confusion matrix          Predicted
+                        ham      spam
+Actual  ham        720        4
+Actual  spam        10      103
+--------------------------------------------------------------
+BASELINE: TF-IDF + Multinomial Naive Bayes (same splits)
+Accuracy : 0.9797  Precision: 1.0000  Recall: 0.8496  F1: 0.9187  ROC-AUC: 0.9837
+==============================================================
+Saved outputs/: metrics.json, roc_points.npy, test_predictions.csv
+--- evaluate.py finished in 8.1s ---
+
+================ [ 4/5 ] predict_demo.py ================
+==========================================================================
+LIVE DEMO - messages the model has never seen during training
+==========================================================================
+ P(spam)  Verdict   Message
+--------------------------------------------------------------------------
+  0.9995     SPAM   Congratulations! You've WON a $1,000 Walmart gift car...
+  1.0000     SPAM   URGENT! Your mobile number has won £2,000 in our mont...
+  0.9996     SPAM   Free entry in the weekly contest to win an iPhone 15....
+  0.0001      HAM   Hey, are we still meeting at the library at 5 pm for ...
+  0.0002      HAM   I'll call you after class. Mom is making dinner tonight.
+  0.0001      HAM   Happy birthday! Have an awesome day, see you at the p...
+  0.0004      HAM   Your lecture timetable for the 6th semester is attached.
+  0.9998     SPAM   You have 1 new voicemail. Click <url> to listen to yo...
+==========================================================================
+--- predict_demo.py finished in 4.1s ---
+
+================ [ 5/5 ] visualise.py ================
+Saved 6 charts to outputs/charts/:
+  - fig1_class_distribution.png
+  - fig2_length_histogram.png
+  - fig3_top_tokens.png
+  - fig4_training_curves.png
+  - fig5_confusion_matrix.png
+  - fig6_roc_curves.png
+--- visualise.py finished in 4.7s ---
+
+PIPELINE COMPLETE - total time 101.5s
+All outputs are in the outputs/ folder.

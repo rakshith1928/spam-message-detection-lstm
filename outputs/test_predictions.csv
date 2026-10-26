@@ -1,0 +1,838 @@
+label,label_code,clean,n_tokens,probability,predicted,correct
+spam,1,free entry in num a wkly comp to win fa cup final tkts num st may num text fa to num to receive entry question std txt rate t c s apply num over num s,36,1.0,1,1
+ham,0,nah i don t think he goes to usf he lives around here though,14,0.0,0,1
+ham,0,even my brother is not like to speak with me they treat me like aids patent,16,0.0001,0,1
+spam,1,winner!! as a valued network customer you have been selected to receivea num prize reward! to claim call num claim code kl num valid num hours only,27,1.0,1,1
+spam,1,six chances to win cash! from num to num num pounds txt csh num and send to num cost num p day num days num tsandcs apply reply hl num info,31,1.0,1,1
+ham,0,i m going to try for num months ha ha only joking,12,0.0012,0,1
+ham,0,just forced myself to eat a slice i m really not hungry tho this sucks mark is getting worried he knows i m sick when i turn down pizza lol,30,0.0001,0,1
+ham,0,yup ok i go home look at the timings then i msg again xuhui going to learn on num nd may too but her lesson is at num am,29,0.0001,0,1
+ham,0,anything lor u decide,4,0.0009,0,1
+ham,0,sorry i ll call later in meeting,7,0.0001,0,1
+ham,0,your gonna have to pick up a $ num burger for yourself on your way home i can t even move pain is killing me,25,0.0,0,1
+ham,0,today is song dedicated day which song will u dedicate for me send this to all ur valuable frnds but first rply me,23,0.0,0,1
+ham,0,k k where are you how did you performed,9,0.0,0,1
+ham,0,its not the same here still looking for a job how much do ta s earn there,17,0.0011,0,1
+ham,0,sorry to be a pain is it ok if we meet another night i spent late afternoon in casualty and that means i haven t done any of y stuff num moro and that includes all my time sheets and that sorry,42,0.0002,0,1
+ham,0,watching telugu movie wat abt u,6,0.0001,0,1
+ham,0,please don t text me anymore i have nothing else to say,12,0.0003,0,1
+ham,0,what is the plural of the noun research,8,0.0004,0,1
+spam,1,you are a winner u have been specially selected num receive num or a num holiday flights inc speak to a live operator num claim num p min num,29,1.0,1,1
+ham,0,hmm my uncle just informed me that he s paying the school directly so pls buy food,17,0.0004,0,1
+ham,0,predict wat time ll finish buying,6,0.0001,0,1
+ham,0,got c i lazy to type i forgot in lect i saw a pouch but like not v nice,19,0.0001,0,1
+ham,0,yes see ya not on the dot,7,0.0008,0,1
+ham,0,hmmm thk sure got time to hop ard ya can go num free abt muz call u to discuss liao,20,0.0002,0,1
+ham,0,i jus reached home i go bathe first but my sis using net tell u when she finishes k,19,0.0001,0,1
+ham,0,i m sorry i ve joined the league of people that dont keep in touch you mean a great deal to me you have been a friend at all times even at great personal cost do have a great week,40,0.0003,0,1
+ham,0,hi finally i completed the course,6,0.0003,0,1
+ham,0,hi its kate how is your evening i hope i can see you tomorrow for a bit but i have to bloody babyjontet! txt back if u can xxx,29,0.0004,0,1
+ham,0,u call me alter at num ok,7,0.0001,0,1
+ham,0,hey company elama po mudyadhu,5,0.0003,0,1
+ham,0,i have printed it oh so lt gt come upstairs,10,0.0,0,1
+ham,0,new theory argument wins d situation but loses the person so dont argue with ur friends just kick them amp say i m always correct !,26,0.0041,0,1
+spam,1,u num have a secret admirer who is looking num make contact with u find out who they r reveal who thinks ur so special call on num,28,0.9998,1,1
+ham,0,tomarrow final hearing on my laptop case so i cant,10,0.0001,0,1
+ham,0,i asked you to call him now ok,8,0.0001,0,1
+ham,0,i m back lemme know when you re ready,9,0.0,0,1
+ham,0,where are you lover i need you,7,0.0001,0,1
+ham,0,yup,1,0.0632,0,1
+ham,0,same wana plan a trip sometme then,7,0.0001,0,1
+ham,0,awesome i ll see you in a bit,8,0.0002,0,1
+ham,0,all done all handed in celebrations in full swing yet,10,0.0005,0,1
+ham,0,ok,1,0.0225,0,1
+ham,0,hurt me tease me make me cry but in the end of my life when i die plz keep one rose on my grave and say stupid i miss u have a nice day bslvyl,35,0.0,0,1
+ham,0,awesome i remember the last time we got somebody high for the first time with diesel v,17,0.0011,0,1
+ham,0,he is a womdarfull actor,5,0.0001,0,1
+ham,0,jos ask if u wana meet up,7,0.0001,0,1
+spam,1,think ur smart win num this week in our weekly quiz text play to num now!t cs winnersclub po box num m num num uz num gbp num num week,30,1.0,1,1
+spam,1,december only! had your mobile num mths you are entitled to update to the latest colour camera mobile for free! call the mobile update co free on num,28,1.0,1,1
+spam,1,valentines day special! win over num in our quiz and take your partner on the trip of a lifetime! send go to num now num p msg rcvd custcare num,30,1.0,1,1
+ham,0,my sister cleared two round in birla soft yesterday,9,0.0001,0,1
+ham,0,well i know z will take care of me so no worries,12,0.0002,0,1
+ham,0,i will spoil you in bed as well,8,0.0002,0,1
+spam,1,thanks for your ringtone order reference t num you will be charged gbp num per week you can unsubscribe at anytime by calling customer services on num,27,1.0,1,1
+ham,0,i guess that s why you re worried you must know that there s a way the body repairs itself and i m quite sure you shouldn t worry we ll take it slow first the tests they will guide when your ovulation is then just relax nothing you ve said is a reason to worry but i ll keep on followin you up,64,0.0001,0,1
+ham,0,yeah sure give me a couple minutes to track down my wallet,12,0.0001,0,1
+ham,0,it took mr owl num licks,6,0.0569,0,1
+ham,0,yes i think so i am in office but my lap is in room i think thats on for the last few days i didnt shut that down,28,0.0001,0,1
+ham,0,hmmm k but i want to change the field quickly da i wanna get system administrator or network administrator,19,0.0003,0,1
+ham,0,bring home some wendy d,5,0.0001,0,1
+ham,0,send this to ur friends and receive something about ur voice how is my speaking expression num childish num naughty num sentiment num rowdy num ful of attitude num romantic num shy num attractive num funny lt gt irritating lt gt lovable reply me,44,0.0001,0,1
+ham,0,aathi where are you dear,5,0.0004,0,1
+ham,0,ask g or iouri i ve told the story like ten times already,13,0.0015,0,1
+ham,0,but i have to i like to have love and arrange,11,0.0009,0,1
+ham,0,oic i saw him too but i tot he din c me i found a group liao,17,0.0,0,1
+ham,0,num min later k,4,0.0852,0,1
+ham,0,k can i pick up another num th when you re done,12,0.0,0,1
+ham,0,when re you guys getting back g said you were thinking about not staying for mcr,16,0.0003,0,1
+ham,0,watching tv lor,3,0.0025,0,1
+ham,0,you should change your fb to jaykwon thuglyfe falconerf,9,0.0001,0,1
+ham,0,i think i ve fixed it can you send a test message,12,0.0002,0,1
+ham,0,nope think i will go for it on monday sorry i replied so late,14,0.0001,0,1
+ham,0,num at the latest g s still there if you can scrounge up some ammo and want to give the new ak a try,24,0.0061,0,1
+ham,0,s no competition for him,5,0.0358,0,1
+ham,0,but that s on ebay it might be less elsewhere,10,0.0001,0,1
+ham,0,probably gonna be here for a while see you later tonight lt,12,0.0002,0,1
+ham,0,this girl does not stay in bed this girl doesn t need recovery time id rather pass out while having fun then be cooped up in bed,27,0.0004,0,1
+ham,0,sorry that took so long omw now,7,0.0002,0,1
+ham,0,ok every night take a warm bath drink a cup of milk and you ll see a work of magic you still need to loose weight just so that you know,31,0.0002,0,1
+ham,0,hi princess! thank you for the pics you are very pretty how are you,14,0.0008,0,1
+ham,0,aiyo u always c our ex one i dunno abt mei she haven reply first time u reply so fast y so lucky not workin huh got bao by ur sugardad ah gee,33,0.0001,0,1
+ham,0,thanx num e brownie it s v nice,8,0.0002,0,1
+ham,0,wait num me in sch i finish ard num,9,0.0022,0,1
+ham,0,ok anyway no need to change with what you said,10,0.0001,0,1
+ham,0,gud mrng dear have a nice day,7,0.0,0,1
+ham,0,neva mind it s ok,5,0.0003,0,1
+ham,0,thanx num today cer it was nice num catch up but we ave num find more time more often oh well take care c u soon c,27,0.0004,0,1
+ham,0,happy valentines day i know its early but i have hundreds of handsomes and beauties to wish so i thought to finish off aunties and uncles num st,28,0.0008,0,1
+ham,0,nah it s straight if you can just bring bud or drinks or something that s actually a little more useful than straight cash,24,0.0193,0,1
+ham,0,got it seventeen pounds for seven hundred ml hope ok,10,0.0001,0,1
+ham,0,allo! we have braved the buses and taken on the trains and triumphed i mean we re in b ham have a jolly good rest of week,27,0.0002,0,1
+spam,1,private! your num account statement for shows num un redeemed s i m points call num identifier code num expires num num num,23,1.0,1,1
+ham,0,thats cool! sometimes slow and gentle sonetimes rough and hard,10,0.0015,0,1
+ham,0,tell them the drug dealer s getting impatient,8,0.0001,0,1
+ham,0,sun cant come to earth but send luv as rays cloud cant come to river but send luv as rain i cant come to meet u but can send my care as msg to u gud evng,37,0.0001,0,1
+ham,0,you will be in the place of that man,9,0.0002,0,1
+ham,0,it doesnt make sense to take it there unless its free if you need to know more wikipedia com,19,0.0001,0,1
+ham,0,then mum s repent how,5,0.0,0,1
+ham,0,leave it de start prepare for next,7,0.2247,0,1
+ham,0,yes baby! we can study all the positions of the kama sutra,12,0.0001,0,1
+ham,0,have a good evening! ttyl,5,0.0003,0,1
+ham,0,piggy r u awake i bet u re still sleeping i m going num lunch now,16,0.0001,0,1
+ham,0,cause i m not freaky lol,6,0.0001,0,1
+ham,0,log off num wat it s sdryb num i,9,0.0173,0,1
+spam,1,forwarded from num please call num immediately as there is an urgent message waiting for you,16,0.9999,1,1
+ham,0,will purchase d stuff today and mail to you do you have a po box number,16,0.0002,0,1
+ham,0,good good job i like entrepreneurs,6,0.0001,0,1
+ham,0,k u also dont msg or reply to his msg,10,0.0001,0,1
+ham,0,i don t think i can get away for a trek that long with family in town sorry,18,0.0001,0,1
+ham,0,oh is it send me the address,7,0.0003,0,1
+ham,0,s fine anytime all the best with it,8,0.0036,0,1
+ham,0,of cos can lar i m not so ba dao ok num pm lor y u never ask where we go ah i said u would ask on fri but he said u will ask today,36,0.0,0,1
+spam,1,email alertfrom jeri stewartsize num kbsubject low cost prescripiton drvgsto listen to email call num,15,0.4087,0,0
+spam,1,hi customer loyalty offer the new nokia num mobile from only num at txtauction! txt word start to no num get yours now! num t ctxt tc num p mtmsg,30,1.0,1,1
+ham,0,yes i will be there glad you made it,9,0.0,0,1
+spam,1,do you realize that in about num years we ll have thousands of old ladies running around with tattoos,19,0.0035,0,0
+spam,1,you have an important customer service announcement from premier,9,0.1327,0,0
+ham,0,realy sorry i don t recognise this number and am now confused who r u please !,17,0.0004,0,1
+spam,1,romantic paris num nights num flights from num book now num next year call num ts cs apply,18,1.0,1,1
+ham,0,wishing you and your family merry x mas and happy new year in advance,14,0.0003,0,1
+ham,0,i cant pick the phone right now pls send a message,11,0.0003,0,1
+ham,0,idc get over here you are not weaseling your way out of this shit twice in a row,18,0.0014,0,1
+ham,0,beerage,1,0.1672,0,1
+ham,0,dont think so it turns off like randomlly within num min of opening,13,0.0001,0,1
+spam,1,orange customer you may now claim your free camera phone upgrade for your loyalty call now on num num num offer ends num thmarch t c s apply opt out availa,31,1.0,1,1
+ham,0,sure but make sure he knows we ain t smokin yet,11,0.0001,0,1
+spam,1,u were outbid by simonwatson num on the shinco dvd plyr num bid again visit sms ac smsrewards num end bid notifications reply end out,25,0.5145,1,1
+ham,0,where s my boytoy i miss you what happened,9,0.0002,0,1
+ham,0,then why you not responding,5,0.0001,0,1
+spam,1,num p num alfie moon s children in need song on ur mob tell ur m num s txt tone charity to num for nokias or poly charity for polys zed num profit num charity,35,1.0,1,1
+ham,0,have a good evening! ttyl,5,0.0003,0,1
+ham,0,surely result will offer,4,0.0065,0,1
+spam,1,do you want num anytime any network mins num text and a new video phone for only five pounds per week call num or reply for delivery tomorrow,28,1.0,1,1
+ham,0,i luv u soo much u don t understand how special u r num me ring u num morrow luv u xxx,22,0.0001,0,1
+spam,1,talk sexy!! make new friends or fall in love in the worlds most discreet text dating service just text vip to num and see who you could meet,28,0.9999,1,1
+spam,1,shop till u drop is it you either num k num k num cash or num travel voucher call now num ntt po box cr num bt fixedline cost num ppm mobile vary,33,1.0,1,1
+spam,1,sunshine quiz wkly q! win a top sony dvd player if u know which country liverpool played in mid week txt ansr to num num num sp tyrone,28,0.9999,1,1
+ham,0,yoyyooo u know how to change permissions for a drive in mac my usb flash drive,16,0.0001,0,1
+ham,0,hope you are having a good week just checking in,10,0.0008,0,1
+spam,1,your free ringtone is waiting to be collected simply text the password mix to num to verify get usher and britney fml po box num mk num num h num ppw num,32,1.0,1,1
+ham,0,probably money worries things are coming due and i have several outstanding invoices for work i did two and three months ago,22,0.0001,0,1
+ham,0,lovely smell on this bus and it ain t tobacco,10,0.0002,0,1
+ham,0,hey what s up charles sorry about the late reply,10,0.0011,0,1
+ham,0,i ll give her once i have it plus she said grinule greet you whenever we speak,17,0.0004,0,1
+spam,1,january male sale! hot gay chat now cheaper call num national rate from num num p min cheap to num num p min peak! to stop texts call num num p min,32,1.0,1,1
+ham,0,my love ! how come it took you so long to leave for zaher s i got your words on ym and was happy to see them but was sad you had left i miss you,36,0.0003,0,1
+ham,0,i could ask carlos if we could get more if anybody else can chip in,15,0.0003,0,1
+ham,0,k k are you in college,6,0.0065,0,1
+ham,0,no we sell it all so we ll have tons if coins then sell our coins to someone thru paypal voila! money back in life pockets,26,0.0002,0,1
+ham,0,awesome lemme know whenever you re around,7,0.0001,0,1
+ham,0,sorry i now then c ur msg yar lor so poor thing but only num one night tmr u ll have a brand new room num sleep in,28,0.0005,0,1
+ham,0,it wont b until num num as trying num sort house out is that ok,15,0.0002,0,1
+ham,0,what is your account number,5,0.0003,0,1
+ham,0,dont hesitate you know this is the second time she has had weakness like that so keep i notebook of what she eat and did the day before or if anything changed the day before so that we can be sure its nothing,43,0.0006,0,1
+ham,0,carlos says he ll be at mu in lt gt minutes,11,0.0,0,1
+ham,0,yun ah the ubi one say if wan call by tomorrow call num look for irene ere only got bus num num num num num num ubi cres ubi tech park num ph for num st num wkg days n,40,0.9999,1,0
+ham,0,num th of july,4,0.4049,0,1
+ham,0,hi im having the most relaxing time ever! we have to get up at num am every day! was the party good the other night i get home tomorrow at num ish,32,0.0004,0,1
+ham,0,the xmas story is peace the xmas msg is love the xmas miracle is jesus hav a blessed month ahead amp wish u merry xmas,25,0.0016,0,1
+ham,0,aight will do thanks again for comin out,8,0.0008,0,1
+ham,0,nope watching tv at home not going out v bored,10,0.0002,0,1
+ham,0,yes da any plm at ur office,7,0.0001,0,1
+ham,0,lol you forgot it eh yes i ll bring it in babe,12,0.0001,0,1
+ham,0,yup bathe liao,3,0.0011,0,1
+ham,0,today am going to college so am not able to atten the class,13,0.0002,0,1
+ham,0,mmm thats better now i got a roast down me! i d b better if i had a few drinks down me num ! good indian,26,0.0006,0,1
+ham,0,jay s getting really impatient and belligerent,7,0.0005,0,1
+ham,0,then u drive lor,4,0.0001,0,1
+ham,0,oi ami parchi na re kicchu kaaj korte iccha korche na phone ta tul na plz plz,17,0.9726,1,0
+ham,0,where can download clear movies dvd copies,7,0.0001,0,1
+ham,0,me too watching surya movie only after num pm vijay movie pokkiri,12,0.0,0,1
+ham,0,you busy or can i come by at some point and figure out what we re doing tomorrow,18,0.0005,0,1
+ham,0,aiyah sorry lor i watch tv watch until i forgot num check my phone,14,0.0001,0,1
+ham,0,on hen night going with a swing,7,0.0008,0,1
+ham,0,awesome think we can get an num th at usf some time tonight,13,0.0004,0,1
+ham,0,so that means you still think of teju,8,0.0,0,1
+ham,0,no no this is kallis home ground amla home town is durban,12,0.0,0,1
+spam,1,num you have won a num num price! to claim call num,12,1.0,1,1
+ham,0,really i tot ur paper ended long ago but wat u copied jus now got use u happy lar i still haf num study,24,0.0009,0,1
+ham,0,sorry man accidentally left my phone on silent last night and didn t check it til i got up,19,0.0002,0,1
+ham,0,hey! there s veggie pizza,5,0.0009,0,1
+spam,1,free entry in num a wkly comp to win fa cup final tkts num st may num text fa to num to receive entry question std txt rate t c s apply num over num s,36,1.0,1,1
+ham,0,haha yeah i see that now be there in a sec,11,0.0003,0,1
+ham,0,ok now i am in bus if i come soon i will come otherwise tomorrow,15,0.0001,0,1
+ham,0,happy new years melody!,4,0.0003,0,1
+ham,0,otherwise had part time job na tuition,7,0.0022,0,1
+ham,0,me also da i feel yesterday night wait til num day night dear,13,0.0001,0,1
+spam,1,win a year supply of cds num a store of ur choice worth num enter our num weekly draw txt music to num ts cs url,26,1.0,1,1
+ham,0,yo the game almost over want to go to walmart soon,11,0.0001,0,1
+ham,0,damn can you make it tonight or do you want to just wait til tomorrow,15,0.0006,0,1
+ham,0,true it is passable and if you get a high score and apply for phd you get num years of salary so it makes life easier,26,0.001,0,1
+ham,0,jus ans me lar u ll noe later,8,0.0001,0,1
+ham,0,have got few things to do may be in pub later,11,0.0003,0,1
+ham,0,num s finish meeting call me,6,0.0026,0,1
+ham,0,dear relieved of westonzoyland all going to plan this end too!,11,0.0026,0,1
+ham,0,we have sent jd for customer service cum accounts executive to ur mail id for details contact us,18,0.0017,0,1
+ham,0,yo i m at my parents gettin cash good news we picked up a downstem,15,0.0,0,1
+ham,0,let me know how to contact you i ve you settled in a room lets know you are ok,19,0.0001,0,1
+ham,0,can do lor,3,0.0123,0,1
+ham,0,yes i thought so thanks,5,0.0,0,1
+ham,0,hey babe! i saw you came online for a second and then you disappeared what happened,16,0.0006,0,1
+ham,0,fran i decided num go n e way im completely broke an knackered i got up bout num c u num mrw love janx p s this is my dads fone no credit,33,0.0007,0,1
+spam,1,enjoy the jamster videosound gold club with your credits for num new videosounds num logos musicnews! get more fun from jamster co uk! num only help call num,28,1.0,1,1
+spam,1,ur balance is now num ur next question is who sang uptown girl in the num s num answer txt ur answer to num good luck!,26,0.9987,1,1
+ham,0,my exam is for february num wish you a great day,11,0.0012,0,1
+ham,0,aight sorry i take ten years to shower what s the plan,12,0.0003,0,1
+ham,0,crazy ar he s married like gd looking guys not me my frens like say he s korean leona s fave but i dun thk he is aft some thinking mayb most prob i ll go,36,0.0002,0,1
+ham,0,i don t know same thing that s wrong everyso often he panicks starts goin on bout not bein good enough,21,0.0002,0,1
+spam,1,double mins double txt num num price linerental on latest orange bluetooth mobiles call mobileupd num for the very latest offers num or call num optout lf num,28,1.0,1,1
+ham,0,where at were hungry too,5,0.0005,0,1
+ham,0,pls speak to that customer machan,6,0.0002,0,1
+ham,0,no few hours before went to hair cut,8,0.0006,0,1
+ham,0,i ll be at mu in like lt gt seconds,10,0.0,0,1
+ham,0,ok,1,0.0225,0,1
+ham,0,cool breeze bright sun fresh flower twittering birds all these waiting to wish u goodmorning amp have a nice day,20,0.0001,0,1
+ham,0,say thanks num,3,0.0605,0,1
+ham,0,u sleeping now or you going to take haha i got spys wat me online checking n replying mails lor,20,0.0001,0,1
+ham,0,kinda first one gets in at twelve! aah speak tomo,10,0.0,0,1
+spam,1,num urgent! your mobile no num xxxxxxxxx won a num num bonus caller prize on num num num ! this is the num nd attempt to reach you! call num asap!,31,1.0,1,1
+ham,0,ok good then i later come find c lucky i told to go earlier later pple take finish no more again,21,0.0009,0,1
+ham,0,wat makes u thk i ll fall down but actually i thk i m quite prone num falls lucky my dad at home i ask him come n fetch me already,31,0.0001,0,1
+ham,0,my trip was ok but quite tiring lor uni starts today but it s ok num me cos i m not taking any modules but jus concentrating on my final yr project,32,0.0001,0,1
+ham,0,i m a guy browsin is compulsory,7,0.0,0,1
+ham,0,hello lover! how goes that new job are you there now are you happy do you think of me i wake my slave and send you a teasing kiss from across the sea,33,0.0003,0,1
+ham,0,total video converter free download type this in google search,10,0.0007,0,1
+ham,0,when u love someone dont make them to love u as much as u do but love them so much that they dont want to be loved by anyone except you gud nit,33,0.0001,0,1
+ham,0,hey sweet i was wondering when you had a moment if you might come to me i want to send a file to someone but it won t go over yahoo for them because their connection sucks remember when you set up that page for me to go to and download the format disc could you tell me how to do that or do you know some other way to download big files because they can download stuff directly from the internet any help would be great my prey teasing kiss,91,0.0019,0,1
+ham,0,i thk u dun haf num hint in e forum already lor cos i told ron n darren is going num tell shuhui,23,0.0002,0,1
+ham,0,yup ok thanx,3,0.0005,0,1
+ham,0,wow i love you sooo much you know i can barely stand it ! i wonder how your day goes and if you are well my love i think of you and miss you,34,0.0003,0,1
+ham,0,should i have picked up a receipt or something earlier,10,0.0001,0,1
+spam,1,you have won a nokia num i this is what you get when you win our free auction to take part send nokia to num now hg suite num num lands row w num jhl num,36,1.0,1,1
+ham,0,after completed degree there is no use in joining finance,10,0.0001,0,1
+ham,0,u too,2,0.0024,0,1
+ham,0,ok how you dear did you call chechi,8,0.0004,0,1
+ham,0,single line with a big meaning miss anything num ur best life but don t miss ur best life for anything gud nyt,23,0.001,0,1
+ham,0,dude just saw a parked car with its sunroof popped up sux,12,0.0005,0,1
+ham,0,i dont have that much image in class,8,0.0002,0,1
+ham,0,sounds gd haha can wah u yan jiu so fast liao,11,0.0,0,1
+ham,0,i was wondering if it would be okay for you to call uncle john and let him know that things are not the same in nigeria as they r here that lt gt dollars is num years sent and that you know its a strain but i plan to pay back every dime he gives every dime so for me to expect anything from you is not practical something like that,71,0.0003,0,1
+ham,0,k then any other special,5,0.0011,0,1
+spam,1,rt king pro video club need help info ringtoneking co uk or call num you must be num club credits redeemable at url enjoy!,24,0.9999,1,1
+ham,0,did u download the fring app,6,0.0002,0,1
+spam,1,u have a secret admirer who is looking num make contact with u find out who they r reveal who thinks ur so special call on num,27,0.9997,1,1
+ham,0,we not watching movie already xy wants num shop so i m shopping w her now,16,0.0003,0,1
+ham,0,no just send to you bec you in temple na,10,0.0009,0,1
+ham,0,so many people seems to be special at first sight but only very few will remain special to you till your last sight maintain them till life ends sh!jas,29,0.0001,0,1
+ham,0,okay we wait ah,4,0.0002,0,1
+ham,0,i don t know but i m raping dudes at poker,11,0.0,0,1
+ham,0,what can i do might accidant tookplace between somewhere ghodbandar rd traffic moves slovely so plz slip amp don t worry,21,0.0004,0,1
+ham,0,yun ah now wkg where btw if go nus sc wana specialise in wad,14,0.0005,0,1
+ham,0,i got your back! do you have any dislikes in bed,11,0.0003,0,1
+ham,0,k can that happen tonight,5,0.0013,0,1
+ham,0,i think we re going to finn s now come,10,0.0,0,1
+ham,0,got it mail panren paru,5,0.0002,0,1
+ham,0,miss ya need ya want ya love ya,8,0.0,0,1
+ham,0,joy s father is john then john is the name of joy s father mandan,15,0.0,0,1
+ham,0,watching tv now i got new job,7,0.0002,0,1
+spam,1,win we have a winner! mr t foley won an ipod! more exciting prizes soon so keep an eye on ur mobile or visit url,25,0.9893,1,1
+ham,0,now whats your house again and do you have any beer there,12,0.0001,0,1
+ham,0,getting tickets num walsall tue num th march my mate is getting me them on sat ill pay my treat want num go txt bak terry,26,0.0012,0,1
+ham,0,yes we are chatting too,5,0.0002,0,1
+ham,0,hi its jess i dont know if you are at work but call me when u can im at home all eve xxx,23,0.0001,0,1
+ham,0,i ll probably be by tomorrow or even later tonight if something s going on,15,0.0013,0,1
+ham,0,sent me ur email id soon,6,0.0,0,1
+ham,0,dude what s up how teresa hope you have been okay when i didnt hear from these people i called them and they had received the package since dec lt gt just thot you ld like to know do have a fantastic year and all the best with your reading plus if you can really really bam first aid for usmle then your work is done,66,0.017,0,1
+ham,0,hello thanx for taking that call i got a job! starts on monday!,13,0.0006,0,1
+ham,0,when should i come over,5,0.0003,0,1
+ham,0,are we doing the norm tomorrow i finish just a num num cos of st tests need to sort library stuff out at some point tomo got letter from today access til end march so i better get move on!,40,0.0002,0,1
+ham,0,i dont want to hear philosophy just say what happen,10,0.0001,0,1
+ham,0,then cant get da laptop my matric card wif lei,10,0.0002,0,1
+spam,1,you have won a guaranteed num cash or a num prize to claim yr prize call our customer service representative on,21,0.9996,1,1
+ham,0,watching tv now i got new job,7,0.0002,0,1
+ham,0,i gotta collect da car at num lei,8,0.0015,0,1
+ham,0,uh heads up we don t have that much left,10,0.0,0,1
+ham,0,i tot u outside cos darren say u come shopping of course we nice wat we jus went sim lim look at mp num player,25,0.0635,0,1
+ham,0,wat would u like num ur birthday,7,0.0001,0,1
+ham,0,and miss vday the parachute and double coins u must not know me very well,15,0.0001,0,1
+ham,0,sorry i ll call later,5,0.0003,0,1
+ham,0,fffff can you text kadeem or are you too far gone,11,0.0004,0,1
+ham,0,excellent! are you ready to moan and scream in ecstasy,10,0.0004,0,1
+ham,0,hey we can go jazz power yoga hip hop kb and yogasana,12,0.0001,0,1
+ham,0,nvm it s ok,4,0.0081,0,1
+ham,0,shall i come to get pickle,6,0.0,0,1
+ham,0,lmao where s your fish memory when i need it,10,0.0,0,1
+ham,0,but i ll b going num sch on mon my sis need num take smth,15,0.0002,0,1
+spam,1,themob yo yo yo here comes a new selection of hot downloads for our members to get for free! just click open the next link sent to ur fone,29,0.9995,1,1
+ham,0,can t take any major roles in community outreach you rock mel,12,0.0001,0,1
+ham,0,see the forwarding message for proof,6,0.0654,0,1
+ham,0,ambrith madurai met u in arun dha marrge remembr,9,0.0001,0,1
+ham,0,princess is your kitty shaved or natural,7,0.0002,0,1
+ham,0,ya it came a while ago,6,0.0001,0,1
+ham,0,is there any movie theatre i can go to and watch unlimited movies and just pay once,17,0.0004,0,1
+ham,0,kallis is ready for bat in num nd innings,9,0.0007,0,1
+ham,0,yes i m small kid and boost is the secret of my energy,13,0.0003,0,1
+ham,0,im gonna miss u so much,6,0.0,0,1
+ham,0,is avatar supposed to have subtoitles,6,0.0002,0,1
+ham,0,oh sorry please its over,5,0.0008,0,1
+ham,0,aight fuck it i ll get it later,8,0.0001,0,1
+ham,0,please charge my mobile when you get up in morning,10,0.0002,0,1
+ham,0,its hard to believe things like this all can say lie but think twice before saying anything to me,19,0.0002,0,1
+ham,0,that is wondarfull song,4,0.0004,0,1
+ham,0,where is it is there any opening for mca,9,0.0001,0,1
+ham,0,i m aight wat s happening on your side,9,0.0003,0,1
+ham,0,moji i love you more than words have a rich day,11,0.0001,0,1
+ham,0,dude how do you like the buff wind,8,0.0001,0,1
+ham,0,no i m not i can t give you everything you want and need you actually could do better for yourself on yor own you ve got more money than i do i can t get work i can t get a man i can t pay the rent i can t even fill my fucking gas tank yes i m stressed and depressed i didn t even call home for thanksgiving cuz i ll have to tell them i m up to nothing,84,0.0004,0,1
+ham,0,i m done,3,0.0012,0,1
+ham,0,are you the cutest girl in the world or what,10,0.0001,0,1
+ham,0,no dice art class num thru num thanks though any idea what time i should come tomorrow,17,0.0001,0,1
+ham,0,lara said she can loan me lt gt,8,0.0,0,1
+ham,0,i hope you know i m still mad at you,10,0.0001,0,1
+spam,1,num congratulations in this week s competition draw u have won the num prize to claim just call num b num t cs stop sms num over num only num ppm,31,1.0,1,1
+ham,0,beautiful truth against gravity read carefully our heart feels light when someone is in it but it feels very heavy when someone leaves it good night,26,0.0,0,1
+ham,0,you do got a shitload of diamonds though,8,0.0001,0,1
+ham,0,carlos took a while again we leave in a minute,10,0.0003,0,1
+ham,0,but i juz remembered i gotta bathe my dog today,10,0.0,0,1
+spam,1,sunshine hols to claim ur med holiday send a stamped self address envelope to drinks on us uk po box num bray wicklow eire quiz starts saturday! unsub stop,29,0.9995,1,1
+ham,0,waaaat lololo ok next time then!,6,0.0006,0,1
+ham,0,i m not coming home num dinner,7,0.0002,0,1
+ham,0,thank you and by the way i just lost,9,0.0006,0,1
+ham,0,thx all will be well in a few months,9,0.0001,0,1
+ham,0,i don t think so you don t need to be going out that late on a school night especially when the one class you have is the one you missed last wednesday and probably failed a test in on friday,41,0.0253,0,1
+ham,0,and popping lt gt ibuprofens was no help,8,0.0002,0,1
+ham,0,yup i shd haf ard num pages if i add figures all got how many pages,16,0.0002,0,1
+ham,0,congrats ! treat pending i am not on mail for num days will mail once thru respect mother at home check mails,22,0.0,0,1
+ham,0,i m in a movie call me num wat,9,0.0005,0,1
+spam,1,urgent!! your num costa del sol holiday or num await collection call num now toclaim sae tc s pobox num stockport sk num xh cost num num pm max num mins,31,1.0,1,1
+ham,0,just gettin a bit arty with my collages at the mo well tryin num ne way! got a roast in a min lovely i shall enjoy that!,27,0.0007,0,1
+ham,0,goodmorning today i am late for num hrs because of back pain,12,0.0,0,1
+ham,0,those were my exact intentions,5,0.0002,0,1
+ham,0,nothing just getting msgs by dis name wit different no s,11,0.0046,0,1
+ham,0,what s your room number again wanna make sure i m knocking on the right door,16,0.0001,0,1
+ham,0,no management puzzeles,3,0.0841,0,1
+spam,1,thanks for your ringtone order ref number r num your mobile will be charged num num should your tone not arrive please call customer services on num,27,1.0,1,1
+ham,0,i am getting threats from your sales executive shifad as i raised complaint against him its an official message,19,0.0025,0,1
+ham,0,did you show him and wot did he say or could u not c him num dust,17,0.001,0,1
+ham,0,haha i think i did too,6,0.0001,0,1
+ham,0,u know we watchin at lido,6,0.0001,0,1
+ham,0,think i could stop by in like an hour or so my roommate s looking to stock up for a trip,21,0.0002,0,1
+ham,0,love you aathi love u lot,6,0.0001,0,1
+ham,0,i reach home safe n sound liao,7,0.0,0,1
+ham,0,dont you have message offer,5,0.0016,0,1
+ham,0,hello damn this christmas thing i think i have decided to keep this mp num that doesnt work,18,0.0004,0,1
+spam,1,moby pub quiz win a num high street prize if u know who the new duchess of cornwall will be txt her first name to num unsub stop num num num sp arrow,33,1.0,1,1
+spam,1,congratulations! thanks to a good friend u have won the num num xmas prize num claim is easy just call num now! only num p per minute bt national rate,30,0.9999,1,1
+ham,0,so what do you guys do,6,0.0009,0,1
+ham,0,also that chat was awesome but don t make it regular unless you can see her in person,18,0.0003,0,1
+ham,0,waqt se pehle or naseeb se zyada kisi ko kuch nahi milta zindgi wo nahi he jo hum sochte hai zindgi wo hai jo ham jeetey hai,27,0.0004,0,1
+ham,0,ok,1,0.0225,0,1
+ham,0,should i be stalking u,5,0.0001,0,1
+ham,0,apps class varaya elaya,4,0.0053,0,1
+ham,0,long beach lor expected u having dinner now,8,0.0001,0,1
+ham,0,at home by the way,5,0.0002,0,1
+ham,0,aww you must be nearly dead!well jez iscoming over todo some workand that whilltake forever!,15,0.0002,0,1
+ham,0,tell dear what happen to you why you talking to me like an alian,14,0.0001,0,1
+ham,0,its posible dnt live in lt gt century cm frwd n thnk different,13,0.0001,0,1
+ham,0,thats cool how was your day,6,0.0001,0,1
+ham,0,i ll talk to the others and probably just come early tomorrow then,13,0.0,0,1
+spam,1,spook up your mob with a halloween collection of a logo pic message plus a free eerie tone txt card spook to num zed num p per logo pic,29,0.9999,1,1
+ham,0,hi i m sorry i missed your call can you pls call back,13,0.0012,0,1
+ham,0,how are you doing hope you ve settled in for the new school year just wishin you a gr num day,21,0.0049,0,1
+ham,0,v nice! off num sheffield tom num air my opinions on categories num b used num measure ethnicity in next census busy transcribing,23,0.96,1,0
+ham,0,watching tv lor y she so funny we bluff her num wat izzit because she thk it s impossible between us,21,0.0004,0,1
+ham,0,i m on my way home went to change batt num my watch then go shop a bit lor,19,0.0001,0,1
+ham,0,good evening sir hope you are having a nice day i wanted to bring it to your notice that i have been late in paying rent for the past few months and have had to pay a $ lt gt charge i felt it would be inconsiderate of me to nag about something you give at great cost to yourself and that s why i didnt speak up i however am in a recession and wont be able to pay the charge this month hence my askin well ahead of month s end can you please help thank you for everything,101,0.0006,0,1
+ham,0,pick ur fone up now u dumb,7,0.0001,0,1
+ham,0,okey doke i m at home but not dressed cos laying around ill! speak to you later bout times and stuff,21,0.0002,0,1
+ham,0,hi! this is roger from cl how are you,9,0.0006,0,1
+ham,0,jesus christ bitch i m trying to give you drugs answer your fucking phone,14,0.0004,0,1
+ham,0,lmao but its so fun,5,0.0001,0,1
+spam,1,guess who am i this is the first time i created a web page url read all i wrote i m waiting for your opinions i want to be your friend num num,33,0.0745,0,0
+ham,0,rightio num num it is then well arent we all up bright and early this morning,16,0.0001,0,1
+ham,0,onum ela pa normal than,5,0.0183,0,1
+ham,0,good afternoon babe how goes that day any job prospects yet i miss you my love sighs,17,0.0001,0,1
+ham,0,sry can t talk on phone with parents,8,0.0101,0,1
+ham,0,i m done i m sorry i hope your next space gives you everything you want remember all the furniture is yours if i m not around when you move it just lock all the locks and leave the key with jenne,42,0.0039,0,1
+ham,0,pansy! you ve been living in a jungle for two years! its my driving you should be more worried about!,20,0.0014,0,1
+ham,0,aiyah e rain like quite big leh if drizzling i can at least run home,15,0.0,0,1
+ham,0,hcl chennai requires freshers for voice process excellent english needed salary upto lt gt call ms suman lt gt for telephonic interview via indyarocks com,25,0.0002,0,1
+ham,0,no da today also i forgot,6,0.0002,0,1
+ham,0,who u talking about,4,0.0001,0,1
+ham,0,yunny i m walking in citylink now faster come down me very hungry,13,0.0002,0,1
+ham,0,ok ill send you with in lt decimal gt ok,10,0.0001,0,1
+ham,0,yes i m in office da,6,0.0003,0,1
+ham,0,sorry i ll call later,5,0.0003,0,1
+ham,0,ok i only ask abt e movie u wan ktv oso,11,0.0001,0,1
+ham,0,misplaced your number and was sending texts to your old number wondering why i ve not heard from you this year all the best in your mcat got this number from my atlanta friends,34,0.0001,0,1
+spam,1,free entry into our num weekly comp just send the word win to num now num t c url,19,1.0,1,1
+ham,0,what s happening with you have you gotten a job and have you begun registration for permanent residency,18,0.0008,0,1
+ham,0,glad it went well come over at num then we ll have plenty of time before claire goes to work,20,0.0005,0,1
+ham,0,hmmm how many players selected,5,0.0002,0,1
+ham,0,she is our sister she belongs num our family she is d hope of tomorrow pray num her who was fated num d shoranur train incident lets hold our hands together amp fuelled by love amp concern prior num her grief amp pain pls join in dis chain amp pass it stop violence against women,55,0.0075,0,1
+spam,1,this message is brought to you by gmw ltd and is not connected to the,15,0.589,1,1
+ham,0,are you still getting the goods,6,0.0002,0,1
+ham,0,and maybe some pressies,4,0.0033,0,1
+ham,0,hey for me there is no leave on friday wait i will ask my superior and tell you,18,0.0001,0,1
+spam,1,your next amazing xxx picsfree num video will be sent to you enjoy! if one vid is not enough for num day text back the keyword picsfree num to get the next video,33,0.9913,1,1
+ham,0,in sch but neva mind u eat num st lor,10,0.0001,0,1
+ham,0,hi happy birthday hi hi hi hi hi hi hi,10,0.0005,0,1
+ham,0,my superior telling that friday is leave for all other department except ours so it will be leave for you any way call waheed fathima hr and conform it,29,0.0001,0,1
+ham,0,so when you gonna get rimac access,7,0.0001,0,1
+ham,0,you call times job today ok umma and ask them to speed up,13,0.0002,0,1
+ham,0,hello madam how are you,5,0.0006,0,1
+ham,0,how come,2,0.0073,0,1
+ham,0,ok lor,2,0.0034,0,1
+ham,0,i m coming home num dinner,6,0.0002,0,1
+ham,0,hey there! glad u r better now i hear u treated urself to a digi cam is it good we r off at num pm have a fab new year c u in coupla wks!,35,0.0002,0,1
+ham,0,tiwary to rcb battle between bang and kochi,8,0.0003,0,1
+ham,0,thank god they are in bed!,6,0.0008,0,1
+ham,0,no i don t have cancer moms making a big deal out of a regular checkup aka pap smear,19,0.0001,0,1
+ham,0,am in gobi arts college,5,0.0016,0,1
+ham,0,pandy joined num w technologies today he got job,9,0.0001,0,1
+ham,0,they can try! they can get lost in fact tee hee,11,0.0001,0,1
+ham,0,my friends use to call the same,7,0.0008,0,1
+ham,0,em its olowoyey usc edu have a great time in argentina not sad about secretary everything is a blessing,19,0.0001,0,1
+ham,0,do you like shaking your booty on the dance floor,10,0.0005,0,1
+spam,1,wanna get laid num nite want real dogging locations sent direct to ur mobile join the uk s largest dogging network txt park to num now! nyt ec num a num lp num num msg,35,1.0,1,1
+ham,0,super msg da nalla timing,5,0.0011,0,1
+ham,0,i m okay chasing the dream what s good what are you doing next,14,0.0726,0,1
+ham,0,hey tmr meet at bugis num,6,0.0035,0,1
+ham,0,can you use foreign stamps for whatever you send them off for,12,0.0007,0,1
+ham,0,yup no more already thanx num printing n handing it up,11,0.0001,0,1
+ham,0,s now only i took tablets reaction morning only,9,0.0,0,1
+spam,1,hope you enjoyed your new content text stop to num to unsubscribe help num p provided by tones num you co uk,22,1.0,1,1
+ham,0,hey you still want to go for yogasana coz if we end at cine then can go bathe and hav the steam bath,23,0.0001,0,1
+ham,0,tunde how are you doing this is just wishing you a great day abiola,14,0.0003,0,1
+ham,0,k da how many page you want,7,0.0,0,1
+ham,0,then ur sis how,4,0.0001,0,1
+ham,0,then its most likely called mittelschmertz google it if you dont have paracetamol dont worry it will go,18,0.0002,0,1
+ham,0,k wat s tht incident,5,0.0013,0,1
+ham,0,we r stayin here an extra week back next wed how did we do in the rugby this weekend hi to and and c u soon,26,0.0003,0,1
+spam,1,freemsg fav xmas tones!reply real,5,0.0129,0,0
+ham,0,lil fever now fine,4,0.0005,0,1
+ham,0,oh yeah i forgot u can only take num out shopping at once,13,0.0002,0,1
+ham,0,enjoy the showers of possessiveness poured on u by ur loved ones bcoz in this world of lies it is a golden gift to be loved truly,27,0.0045,0,1
+ham,0,its normally hot mail com you see!,7,0.0023,0,1
+ham,0,ya they are well and fine bbd pooja full pimples even she become quite black and ur rite here its too cold wearing sweatter,24,0.0004,0,1
+ham,0,ok thanx,2,0.0024,0,1
+ham,0,wat time u finish ur lect today,7,0.0001,0,1
+ham,0,are you going to wipro interview today,7,0.0,0,1
+ham,0,japanese proverb if one can do it u too can do it if none can do it u must do it indian version if one can do it let him do it if none can do it leave it!! and finally kerala version if one can do it stop him doing it if none can do it make a strike against it,62,0.0013,0,1
+ham,0,i am not at all happy with what you saying or doing,12,0.0005,0,1
+ham,0,aight tomorrow around lt gt it is,7,0.0,0,1
+spam,1,your chance to be on a reality fantasy show call now num just num p per min ntt ltd po box num croydon cr num num wb num is a national rate call,33,0.9999,1,1
+ham,0,i actually did for the first time in a while i went to bed not too long after i spoke with you woke up at num how was your night,30,0.0001,0,1
+ham,0,cbe is really good nowadays lot of shop and showrooms city is shaping good,14,0.0002,0,1
+ham,0,went to ganesh dress shop,5,0.0009,0,1
+spam,1,pdate now double mins and num txts on orange tariffs latest motorola sonyericsson nokia bluetooth free! call mobileupd num on num or call num optout !yhl,26,1.0,1,1
+ham,0,ha you don t know either i did a a clever but simple thing with pears the other day perfect for christmas,22,0.04,0,1
+ham,0,why must we sit around and wait for summer days to celebrate such a magical sight when the worlds dressed in white oooooh let there be snow,27,0.0001,0,1
+ham,0,thanks chikku gud nyt,4,0.0034,0,1
+ham,0,thts god s gift for birds as humans hav some natural gift frm god,14,0.0,0,1
+ham,0,only num students solved this cat question in xam num num num lt gt num num num lt gt num num num lt gt then num num num tell me the answer if u r brilliant num thing i got d answr,42,0.0001,0,1
+ham,0,hello no news on job they are making me wait a fifth week! yeah im up for some woozles and weasels in exeter still but be home about num,29,0.0002,0,1
+ham,0,at bruce b downs amp fletcher now,7,0.0002,0,1
+spam,1,urgent! your mobile was awarded a num num bonus caller prize on num num num our final attempt num contact u! call num,23,1.0,1,1
+ham,0,id have to check but there s only like num bowls worth left,13,0.0001,0,1
+ham,0,i would but i m still cozy and exhausted from last night nobody went to school or work everything is closed,21,0.0001,0,1
+ham,0,happy new year princess!,4,0.0006,0,1
+ham,0,don t worry is easy once have ingredients!,8,0.0,0,1
+ham,0,ok omw now you at castor,6,0.0001,0,1
+ham,0,tonight yeah i d be down for that,8,0.0001,0,1
+spam,1,no num polyphonic tone num ur mob every week! just txt pt num to num num st tone free ! so get txtin now and tell ur friends num p tone num reply hl num info,36,1.0,1,1
+ham,0,k i did t see you k where are you now,11,0.0003,0,1
+ham,0,no b num thursday,4,0.7266,1,0
+ham,0,oh then your phone phoned me but it disconnected,9,0.0,0,1
+ham,0,hm good morning headache anyone,5,0.0009,0,1
+spam,1,free unlimited hardcore porn direct num your mobile txt porn to num get free access for num hrs then chrgd num p per day txt stop num exit this msg is free,32,1.0,1,1
+ham,0,jokin only lar depends on which phone my father can get lor,12,0.0001,0,1
+ham,0,please leave this topic sorry for telling that,8,0.0007,0,1
+ham,0,pls send me the correct name da,7,0.0011,0,1
+ham,0,ok lor but buy wat,5,0.0001,0,1
+ham,0,somebody should go to andros and steal ice,8,0.0001,0,1
+ham,0,deep sigh i miss you i am really surprised you haven t gone to the net cafe yet to get to me don t you miss me,27,0.0,0,1
+ham,0,what today sunday sunday is holiday so no work,9,0.0003,0,1
+ham,0,olol i printed out a forum post by a guy with the exact same prob which was fixed with a gpu replacement hopefully they dont ignore that,27,0.0031,0,1
+ham,0,ok i din get ur msg,6,0.0,0,1
+ham,0,hi happy new year i dont mean to intrude but can you pls let me know how much tuition you paid last semester and how much this semester is thanks,30,0.0,0,1
+spam,1,good luck! draw takes place num th feb num good luck! for removal send stop to num customer services num,20,0.9999,1,1
+ham,0,my uncles in atlanta wish you guys a great semester,10,0.0001,0,1
+ham,0,thats cool i liked your photos you are very sexy!,10,0.0001,0,1
+ham,0,ok but i finish at num,6,0.0005,0,1
+spam,1,lookatme! thanks for your purchase of a video clip from lookatme! you ve been charged num p think you can do better why not send a video in a mmsto num,31,1.0,1,1
+ham,0,i ve been barred from all b and q stores for life! this twat in orange dungerees came up to me and asked if i wanted decking so i got the first punch in!!,34,0.0001,0,1
+ham,0,ok going to sleep hope i can meet her,9,0.0001,0,1
+ham,0,haha i heard that text me when you re around,10,0.0001,0,1
+spam,1,hard live num chat just num p min choose your girl and connect live call num now! cheap chat uk s biggest live service vu bcm num wc num n num xx,32,1.0,1,1
+ham,0,havent shopping now lor i juz arrive only,8,0.0001,0,1
+ham,0,do u still have plumbers tape and a wrench we could borrow,12,0.0,0,1
+spam,1,dear voucher holder to claim this weeks offer at you pc please go to url ts cs apply,18,0.9996,1,1
+ham,0,there the size of elephant tablets u shove um up ur ass!!,12,0.0001,0,1
+ham,0,my parents my kidz my friends n my colleagues all screaming surprise !! and i was waiting on the sofa naked !,22,0.0007,0,1
+ham,0,good morning pookie pie! lol hope i didn t wake u up,12,0.0001,0,1
+ham,0,happy birthday to you dear with lots of love rakhesh nri,11,0.0001,0,1
+ham,0,great p diddy is my neighbor and comes for toothpaste every morning,12,0.0002,0,1
+ham,0,just curious because my cuz asked what i was up to,11,0.0007,0,1
+ham,0,she said do u mind if i go into the bedroom for a minute ok i sed in a sexy mood she came out num minuts latr wid a cake n my wife,33,0.0001,0,1
+ham,0,don know this week i m going to tirunelvai da,10,0.0004,0,1
+ham,0,me too baby! i promise to treat you well! i bet you will take good care of me,18,0.0,0,1
+ham,0,its like that hotel dusk game i think you solve puzzles in a area thing,15,0.0001,0,1
+ham,0,sorry da thangam it s my mistake,7,0.0001,0,1
+ham,0,i feel like a dick because i keep sleeping through your texts and facebook messages sup you in town,19,0.0002,0,1
+ham,0,pls accept me for one day or am begging you change the number,13,0.0001,0,1
+ham,0,i ll leave around four ok,6,0.0,0,1
+ham,0,come to medical college at num pm forward it da,10,0.0002,0,1
+ham,0,which is why i never wanted to tell you any of this which is why i m so short with you and on edge as of late,27,0.0008,0,1
+ham,0,hey you around i ve got enough for a half the ten i owe you,15,0.0007,0,1
+spam,1,rct thnq adrian for u text rgds vatian,8,0.0003,0,0
+ham,0,stop calling everyone saying i might have cancer my throat hurts to talk i can t be answering everyones calls if i get one more call i m not babysitting on monday,32,0.0006,0,1
+ham,0,set a place for me in your heart and not in your mind as the mind easily forgets but the heart will always remember wish you happy valentines day!,29,0.0002,0,1
+ham,0,okie wan meet at bishan cos me at bishan now i m not driving today,15,0.0002,0,1
+ham,0,eh sorry leh i din c ur msg not sad already lar me watching tv now u still in office,20,0.0001,0,1
+ham,0,nope juz off from work,5,0.0075,0,1
+ham,0,huh so fast dat means u havent finished painting,9,0.0,0,1
+ham,0,you will go to walmart i ll stay,8,0.0001,0,1
+ham,0,no problem baby is this is a good time to talk i called and left a message,17,0.0004,0,1
+ham,0,at what time are you coming,6,0.0005,0,1
+ham,0,minimum walk is num miles a day,7,0.0002,0,1
+ham,0,yup wun believe wat u really neva c e msg i sent shuhui,13,0.0004,0,1
+ham,0,same as kallis dismissial in num nd test,8,0.0023,0,1
+ham,0,beautiful truth against gravity read carefully our heart feels light when someone is in it but it feels very heavy when someone leaves it goodmorning,25,0.0001,0,1
+ham,0,no pic please re send,5,0.1333,0,1
+ham,0,but i haf enuff space got like num mb,9,0.0001,0,1
+ham,0,sure but since my parents will be working on tuesday i don t really need a cover story,18,0.0,0,1
+ham,0,christmas is an occasion that is celebrated as a reflection of ur values desires affections amp traditions have an ideal christmas,21,0.001,0,1
+spam,1,get a free mobile video player free movie to collect text go to num its free! extra films can be ordered t s and c s apply num yrs only,30,1.0,1,1
+ham,0,wiskey brandy rum gin beer vodka scotch shampain wine kudi yarasu dhina vaazhthukkal,13,0.0002,0,1
+ham,0,sorry mail,2,0.0344,0,1
+ham,0,ya just telling abt tht incident,6,0.0001,0,1
+spam,1,not heard from u num a while call me now am here all night with just my knickers on make me beg for it like u did last time num xx luv nikiyu num net,35,0.0003,0,0
+spam,1,urgent! we are trying to contact u todays draw shows that you have won a num prize guaranteed call num from land line claim m num valid num hrs only,30,1.0,1,1
+ham,0,change windows logoff sound,4,0.0004,0,1
+ham,0,i m also came to room,6,0.0002,0,1
+ham,0,huh but i got lesson at num lei n i was thinkin of going to sch earlier n i tot of parkin at kent vale,25,0.0001,0,1
+ham,0,cool text me when you head out,7,0.0002,0,1
+spam,1,you are being contacted by our dating service by someone you know! to find out who it is call from a land line num pobox num w num tg num p,31,1.0,1,1
+spam,1,wan num win a meet greet with westlife num u or a m num they are currently on what tour num unbreakable num untamed num unkempt text num num or num to num cost num p std text,38,0.9999,1,1
+ham,0,says the lt gt year old with a man and money i m down to my last lt gt still waiting for that check,24,0.0001,0,1
+ham,0,will you be here for food,6,0.002,0,1
+ham,0,tyler getting an num th has to leave not long after num can you get here in like an hour,20,0.0002,0,1
+ham,0,good evening! how are you,5,0.0004,0,1
+ham,0,thank you meet you monday,5,0.0002,0,1
+ham,0,multiply the numbers independently and count decimal points then for the division push the decimal places like i showed you,20,0.0011,0,1
+ham,0,i sent your maga that money yesterday oh,8,0.0001,0,1
+ham,0,heart is empty without love mind is empty without wisdom eyes r empty without dreams amp life is empty without frnds so alwys be in touch good night amp sweet dreams,31,0.0001,0,1
+ham,0,i ve sent my wife your text after we buy them she ll tell you what to do so just relax we should go get them this wkend,28,0.0002,0,1
+ham,0,sorry i ll call later,5,0.0003,0,1
+ham,0,huh but i cant go num ur house empty handed right,11,0.0001,0,1
+ham,0,then wat r u doing now busy wif work,9,0.0002,0,1
+ham,0,joy s father is john then john is the of joy s father if u ans ths you hav lt gt iq tis s ias question try to answer,29,0.0047,0,1
+ham,0,can you please ask macho what his price range is does he want something new or used plus it he only interfued in the blackberry bold lt gt or any bb,31,0.0001,0,1
+spam,1,num num p num alfie moon s children in need song on ur mob tell ur m num s txt tone charity to num for nokias or poly charity for polys zed num profit num charity,36,1.0,1,1
+ham,0,that means from february to april i ll be getting a place to stay down there so i don t have to hustle back and forth during audition season as i have since my sister moved away from harlem,39,0.0002,0,1
+ham,0,should i head straight there or what,7,0.0,0,1
+ham,0,you know what hook up means right,7,0.0,0,1
+ham,0,my house here e sky quite dark liao if raining then got excuse not num run already rite hee,19,0.0001,0,1
+ham,0,moji just informed me that you saved our lives thanks,10,0.0001,0,1
+ham,0,i cant pick the phone right now pls send a message,11,0.0003,0,1
+ham,0,dad says hurry the hell up,6,0.0004,0,1
+ham,0,i ll meet you in the lobby,7,0.0002,0,1
+ham,0,yeah why not is the gang all ready,8,0.0001,0,1
+spam,1,hi there num nights ur lucky night! uve been invited num xchat the uks wildest chat! txt chat to num now! num p msgrcvdhg suite num num lands row w num j num hl ldn num yrs,37,1.0,1,1
+ham,0,it s num to get in is that ok,9,0.0,0,1
+ham,0,hows the street where the end of library walk is,10,0.0002,0,1
+ham,0,nobody names their penis a girls name this story doesn t add up at all,15,0.0007,0,1
+ham,0,k i will send in lt gt min,8,0.0,0,1
+ham,0,where are you call me,5,0.0008,0,1
+ham,0,hi wlcome back did wonder if you got eaten by a lion or something nothing much,16,0.0001,0,1
+ham,0,i came hostel i m going to sleep plz call me up before class hrishi,15,0.0001,0,1
+ham,0,ok but bag again,4,0.0005,0,1
+ham,0,dear got train and seat mine lower seat,8,0.0001,0,1
+ham,0,whore you are unbelievable,4,0.002,0,1
+ham,0,are you sure you don t mean get here we made you hold all the weed,16,0.0006,0,1
+spam,1,twinks bears scallies skins and jocks are calling now don t miss the weekend s fun call num at num p min num stop texts call num nat rate,29,0.9999,1,1
+ham,0,it s ok at least armand s still around,9,0.0,0,1
+ham,0,yup song bro no creative neva test quality he said check review online,13,0.0008,0,1
+ham,0,pls i wont belive god not only jesus,8,0.0,0,1
+ham,0,sorry brah just finished the last of my exams what up,11,0.0001,0,1
+ham,0,watching tv lor nice one then i like lor,9,0.0001,0,1
+ham,0,early bird! any purchases yet,5,0.0003,0,1
+ham,0,chile please! it s only a lt decimal gt hour drive for me i come down all the time and will be subletting feb april for audition season,28,0.003,0,1
+spam,1,fantasy football is back on your tv go to sky gamestar on sky active and play num k dream team scoring starts on saturday so register now!sky opt out to num,31,0.873,1,1
+ham,0,can you plz tell me the ans bslvyl sent via fullonsms com,12,0.0003,0,1
+ham,0,oh ya got hip hop open haha i was thinking can go for jazz then zoom to cine actually tonight i m free leh and there s a kb lesson tonight,31,0.0003,0,1
+spam,1,free msg single find a partner in your area! num s of real people are waiting to chat now!send chat to num cncl send stopcs num num num per msg,30,0.9999,1,1
+ham,0,hi juan im coming home on fri hey of course i expect a welcome party and lots of presents ill phone u when i get back loads of love nicky x x x x x x x x x,39,0.0009,0,1
+ham,0,same i m at my great aunts anniversary party in tarpon springs,12,0.0001,0,1
+spam,1,urgent this is our num nd attempt to contact u your num prize from yesterday is still awaiting collection to claim call now num acl num pm,27,1.0,1,1
+ham,0,have you heard from this week,6,0.0008,0,1
+spam,1,do you want a new video handset num anytime any network mins half price line rental camcorder reply or call num for delivery tomorrow,24,1.0,1,1
+ham,0,ok c u then,4,0.0002,0,1
+ham,0,i wish! i don t think its gonna snow that much but it will be more than those flurries we usually get that melt before they hit the ground eek! we haven t had snow since lt gt before i was even born!,43,0.0001,0,1
+ham,0,babe i lost you will you try rebooting,8,0.0001,0,1
+ham,0,nooooooo i m gonna be bored to death all day cable and internet outage,14,0.0005,0,1
+spam,1,refused a loan secured or unsecured can t get credit call free now num num num or text back help we will!,22,1.0,1,1
+ham,0,haha dont be angry with yourself take it as a practice for the real thing,15,0.0001,0,1
+ham,0,so i could kiss and feel you next to me,10,0.0001,0,1
+ham,0,i sent lanre fakeye s eckankar details to the mail box,11,0.0014,0,1
+ham,0,i was just callin to say hi take care bruv!,10,0.0,0,1
+ham,0,that s the trouble with classes that go well you re due a dodgey one expecting mine tomo! see you for recovery same time same place,26,0.0014,0,1
+ham,0,his frens go then he in lor not alone wif my mum n sis lor,15,0.0001,0,1
+ham,0,whatever juliana do whatever you want,6,0.0004,0,1
+ham,0,hello sort of out in town already that so dont rush home i am eating nachos will let you know eta,21,0.0,0,1
+ham,0,nimbomsons yep phone knows that one obviously cos thats a real word,12,0.0002,0,1
+ham,0,we ll you pay over like lt gt yrs so its not too difficult,14,0.0001,0,1
+ham,0,k k when will you give treat,7,0.0003,0,1
+spam,1,this is the num nd time we have tried to contact u u have won the num prize num claim is easy just call num now! only num p per minute bt national rate,34,0.9999,1,1
+ham,0,somewhere out there beneath the pale moon light someone think in of u some where out there where dreams come true goodnite amp sweet dreams,25,0.0003,0,1
+ham,0,university of southern california,4,0.0013,0,1
+ham,0,well balls time to make calls,6,0.0002,0,1
+ham,0,i am taking you for italian food how about a pretty dress with no panties,15,0.0006,0,1
+ham,0,i am literally in bed and have been up for like lt gt hours,14,0.0001,0,1
+ham,0,motivate behind every darkness there is a shining light waiting for you to find it behind every best friend there is always trust and love bslvyl,26,0.0001,0,1
+ham,0,i was slept that time you there,7,0.0001,0,1
+spam,1,moby pub quiz win a num high street prize if u know who the new duchess of cornwall will be txt her first name to num unsub stop num num num sp,32,1.0,1,1
+ham,0,prof you have passed in all the papers in this sem congrats student enna kalaachutaarama !! prof gud mrng!,19,0.0002,0,1
+ham,0,dont kick coco when he s down,7,0.0001,0,1
+ham,0,o i played smash bros lt gt religiously,8,0.0,0,1
+ham,0,hurry home soup is done!,5,0.0003,0,1
+ham,0,do u hav any frnd by name ashwini in ur college,11,0.001,0,1
+ham,0,where are you what do you do how can you stand to be away from me doesn t your heart ache without me don t you wonder of me don t you crave me,34,0.0,0,1
+ham,0,what you doing how are you,6,0.0006,0,1
+ham,0,doc prescribed me morphine cause the other pain meds aren t enough waiting for my mom to bring it that med should kick in fast so i m gonna try to be on later,34,0.0007,0,1
+ham,0,cool want me to go to kappa or should i meet you outside mu,14,0.0001,0,1
+ham,0,may b approve panalam but it should have more posts,10,0.0001,0,1
+ham,0,i dont thnk its a wrong calling between us,9,0.0002,0,1
+ham,0,and by when you re done i mean now,9,0.0001,0,1
+ham,0,i can t wait for cornwall hope tonight isn t too bad as well but it s rock night shite anyway i m going for a kip now have a good night speak to you soon,36,0.0002,0,1
+ham,0,pls help me tell sura that i m expecting a battery from hont and that if should pls send me a message about how to download movies thanks,28,0.0001,0,1
+spam,1,urgent!! your num costa del sol holiday or num await collection call num now toclaim sae tc s pobox num stockport sk num xh cost num num pm max num mins,31,1.0,1,1
+spam,1,had your mobile num months or more u r entitled to update to the latest colour mobiles with camera for free! call the mobile update co free on num,29,1.0,1,1
+ham,0,well if i m that desperate i ll just call armand again,12,0.0006,0,1
+ham,0,sorry i ll call later,5,0.0003,0,1
+ham,0,i just really need shit before tomorrow and i know you won t be awake before like num,18,0.0013,0,1
+ham,0,dear got bus directly to calicut,6,0.0004,0,1
+ham,0,sorry i ll call later,5,0.0003,0,1
+spam,1,double mins and txts num num months free bluetooth on orange available on sony nokia motorola phones call mobileupd num on num or call num optout n num dx,29,1.0,1,1
+ham,0,sorry it s a lot of friend of a friend stuff i m just now about to talk to the actual guy who wants to buy,26,0.0016,0,1
+spam,1,important information num orange user num xxxxxx today is ur lucky day! num find out why log onto url there s a fantastic prizeawaiting you!,25,0.9999,1,1
+ham,0,stupid auto correct on my phone,6,0.0033,0,1
+spam,1,u can win num of music gift vouchers every week starting now txt the word draw to num tscs url skillgame num winaweek age num num ppermesssubscription,27,1.0,1,1
+ham,0,is toshiba portege m num gd,6,0.0353,0,1
+spam,1,text pass to num to collect your polyphonic ringtones normal gprs charges apply only enjoy your tones,17,0.9999,1,1
+ham,0,omg joanna is freaking me out she s looked thru all my friends to find photos of me and then she s asking about stuff on my myspace which i haven t even logged on in like a year,39,0.0004,0,1
+ham,0,aah! a cuddle would be lush! i d need lots of tea and soup before any kind of fumbling!,19,0.0001,0,1
+ham,0,she just broke down a list of reasons why nobody s in town and i can t tell if she s being sarcastic or just faggy,26,0.0001,0,1
+ham,0,great hope you are using your connections from mode men also cos you can never know why old friends can lead you to today,24,0.0001,0,1
+ham,0,i m glad you are following your dreams,8,0.0001,0,1
+ham,0,erm woodland avenue somewhere do you get the parish magazine his telephone number will be in there,17,0.0002,0,1
+ham,0,aiyar hard num type u later free then tell me then i call n scold n tell u,18,0.0,0,1
+ham,0,yup i m free,4,0.0024,0,1
+ham,0,it so happens that there r num waxsto do wat you want she can come and ill get her medical insurance and she ll be able to deliver and have basic care i m currently shopping for the right medical insurance for her so just give me til friday morning thats when i ll see the major person that can guide me to the right insurance,66,0.0002,0,1
+ham,0,is ur changes num da report big cos i ve already made changes num da previous report,17,0.0027,0,1
+ham,0,hiya stu wot u up num im in so much truble at home at moment evone hates me even u! wot the hell av i done now y wont u just tell me text bck please luv dan,38,0.0001,0,1
+ham,0,that seems unnecessarily hostile,4,0.0011,0,1
+ham,0,y bishan lei i tot say lavender,7,0.0001,0,1
+ham,0,ha! i wouldn t say that i just didn t read anything into way u seemed i don t like num be judgemental i save that for fridays in the pub!,31,0.0003,0,1
+ham,0,you still around i could use a half num th,10,0.0002,0,1
+ham,0,hows the pain dear y r u smiling,8,0.0,0,1
+ham,0,great so should i send you my account number,9,0.0,0,1
+ham,0,don t think about what u have got think about how to use it that you have got good ni num,21,0.0002,0,1
+spam,1,do you want a new video handset num any time any network mins unlimited text camcorder reply or call now num for del sat am,25,0.9999,1,1
+ham,0,how much is torch in num ja,7,0.0002,0,1
+ham,0,mathews or tait or edwards or anderson,7,0.0002,0,1
+ham,0,thanks honey but still haven t heard anything i will leave it a bit longer so not num crowd him and will try later great advice thanks hope cardiff is still there!,32,0.0003,0,1
+ham,0,good friends care for each other close friends understand each other and true friends stay forever beyond words beyond time gud ni num,23,0.0005,0,1
+ham,0,just getting back home,4,0.0021,0,1
+ham,0,dun need to use dial up juz open da browser n surf,12,0.0001,0,1
+ham,0,awesome plan to get here any time after like lt gt i ll text you details in a wee bit,20,0.0003,0,1
+spam,1,for your chance to win a free bluetooth headset then simply reply back with adp,15,0.9736,1,1
+ham,0,yeah i should be able to i ll text you when i m ready to meet up,17,0.0005,0,1
+ham,0,update your face book status frequently,6,0.0005,0,1
+ham,0,so what did the bank say about the money,9,0.0001,0,1
+ham,0,can u look num me in da lib i got stuff havent finish yet,14,0.0001,0,1
+ham,0,num celebrate my b day y else,7,0.0001,0,1
+ham,0,or i guess lt gt min,6,0.0,0,1
+ham,0,if you want to mapquest it or something look up usf dogwood drive that s the tiny street where the parking lot is,23,0.008,0,1
+spam,1,welcome to uk mobile date this msg is free giving you free calling to num future mgs billed at num p daily to cancel send go stop to num,29,1.0,1,1
+spam,1,num you have received your mobile content enjoy,8,0.99,1,1
+ham,0,i ll pick you up at about num num pm to go to taunton if you still want to come,20,0.0002,0,1
+ham,0,i anything lor,3,0.0012,0,1
+ham,0,y cant u try new invention to fly i m not joking,12,0.0012,0,1
+ham,0,true lov n care wil nevr go unrecognized though somone often makes mistakes when valuing it but they will definitly undrstnd once when they start missing it,27,0.0001,0,1
+ham,0,probably a couple hours tops,5,0.0002,0,1
+ham,0,in case you wake up wondering where i am i forgot i have to take care of something for grandma today should be done before the parade,27,0.0001,0,1
+ham,0,ok,1,0.0225,0,1
+ham,0,he neva grumble but i sad lor hee buy tmr lor aft lunch but we still meetin num lunch tmr a not neva hear fr them lei got a lot of work ar,33,0.0005,0,1
+ham,0,now project pa after that only i can come,9,0.0001,0,1
+ham,0,that was random saw my old roomate on campus he graduated,11,0.0001,0,1
+ham,0,do u want num meet up num morro,8,0.0003,0,1
+ham,0,i wish things were different i wonder when i will be able to show you how much i value you pls continue the brisk walks no drugs without askin me please and find things to laugh about i love you dearly,41,0.0006,0,1
+ham,0,num wonders in my world num th you num th ur style num th ur smile num th ur personality num rd ur nature num nd ur sms and num st ur lovely friendship good morning dear,37,0.0004,0,1
+spam,1,urgent! this is the num nd attempt to contact u!u have won num call num b num num t csbcm num wc num n num xx callcost num ppmmobilesvary max num num,32,1.0,1,1
+ham,0,but your not here,4,0.0004,0,1
+spam,1,had your contract mobile num mnths latest motorola nokia etc all free! double mins text on orange tariffs text yes for callback no to remove from records,27,0.9997,1,1
+spam,1,for ur chance to win a num wkly shopping spree txt shop to num t s c s url custcare num num x num p wk,26,1.0,1,1
+ham,0,noooooooo please last thing i need is stress for once in your life be fair,15,0.0001,0,1
+spam,1,mila age num blonde new in uk i look sex with uk guys if u like fun with me text mtalk to num num num pp txt num st num free num num increments help num,36,1.0,1,1
+ham,0,have you not finished work yet or something,8,0.0001,0,1
+ham,0,full heat pa i have applyed oil pa,8,0.0002,0,1
+ham,0,have you laid your airtel line to rest,8,0.0478,0,1
+ham,0,and i don t plan on staying the night but i prolly won t be back til late,18,0.0001,0,1
+ham,0,we live in the next lt gt mins,8,0.0001,0,1
+spam,1,sunshine quiz! win a super sony dvd recorder if you canname the capital of australia text mquiz to num b,20,0.997,1,1
+ham,0,good do you think you could send me some pix i would love to see your top and bottom,19,0.0049,0,1
+ham,0,they finally came to fix the ceiling,7,0.0041,0,1
+ham,0,i m on the bus love you,7,0.0001,0,1
+spam,1,todays voda numbers ending with num are selected to receive a num reward if you have a match please call num quoting claim code num standard rates apply,28,1.0,1,1
+ham,0,do you hide anythiing or keeping distance from me,9,0.0001,0,1
+ham,0,god created gap btwn ur fingers so dat sum num vry special will fill those gaps by holding ur hands now plz dont ask y he created so much gap between legs !!!,33,0.0003,0,1
+ham,0,we are okay going to sleep now later,8,0.0001,0,1
+ham,0,k i ll work something out,6,0.0001,0,1
+ham,0,probably not i m almost out of gas and i get some cash tomorrow,14,0.0,0,1
+ham,0,that s cool he ll be here all night lemme know when you re around,15,0.0001,0,1
+spam,1,win we have a winner! mr t foley won an ipod! more exciting prizes soon so keep an eye on ur mobile or visit url,25,0.9893,1,1
+ham,0,i m home my love if your still awake loving kiss,11,0.0,0,1
+spam,1,free game get rayman golf num free from the o num games arcade num st get ur games settings reply post then save activ num press num key for arcade termsapply,31,0.9999,1,1
+ham,0,not for possession especially not first offense,7,0.0002,0,1
+ham,0,i m home doc gave me pain meds says everything is fine,12,0.0001,0,1
+ham,0,sorry completely forgot will pop em round this week if your still here,13,0.0001,0,1
+ham,0,yup hey then one day on fri we can ask miwa and jiayin take leave go karaoke,17,0.002,0,1
+ham,0,call me i am senthil from hsbc,7,0.0001,0,1
+ham,0,thk of wat to eat tonight,6,0.0135,0,1
+ham,0,i dont know why she s not getting your messages,10,0.0001,0,1
+ham,0,how do you plan to manage that,7,0.0002,0,1
+ham,0,sorry for the delay yes masters,6,0.0001,0,1
+ham,0,got smaller capacity one quite ex,6,0.0001,0,1
+ham,0,im good! i have been thinking about you,8,0.0001,0,1
+spam,1,u r a winner u ave been specially selected num receive num cash or a num holiday flights inc speak to a live operator num claim num p min num,30,1.0,1,1
+ham,0,yay can t wait to party together!,7,0.0001,0,1
+ham,0,all boys made fun of me today ok i have no problem i just sent one message just for fun,20,0.0003,0,1
+spam,1,free message thanks for using the auction subscription service num num p msgrcvd num skip an auction txt out num unsubscribe txt stop customercare num,25,1.0,1,1
+ham,0,sorry da today i wont come to play i have driving clas,12,0.0001,0,1
+ham,0,i know dat feelin had it with pete! wuld get with em nuther place nuther time mayb,17,0.0001,0,1
+ham,0,num and half years i missed your friendship,8,0.0003,0,1
+ham,0,taka lor wat time u wan num come n look num us,12,0.0009,0,1
+ham,0,its so common hearin how r u wat r u doing how was ur day so let me ask u something different did u smile today if not do it now gud evng,33,0.0001,0,1
+ham,0,good morning my boytoy! how s those yummy lips where s my sexy buns now what do you do do you think of me do you crave me do you need me,32,0.0,0,1
+ham,0,hey do you want anything to buy,7,0.0009,0,1
+ham,0,anyway i don t think i can secure anything up here lemme know if you want me to drive down south and chill,23,0.0003,0,1
+ham,0,i m already back home so no probably not,9,0.0001,0,1
+spam,1,hi this is amy we will be sending you a free phone number in a couple of days which will give you an access to all the adult parties,29,0.4818,0,0
+ham,0,a few people are at the game i m at the mall with iouri and kaila,16,0.0003,0,1
+spam,1,urgent! we are trying to contact u todays draw shows that you have won a num prize guaranteed call num from land line claim num valid num hrs only,29,1.0,1,1
+spam,1,you can donate num num to unicef s asian tsunami disaster support fund by texting donate to num num num will be added to your next bill,27,1.0,1,1
+ham,0,we are supposed to meet to discuss abt our trip thought xuhui told you in the afternoon thought we can go for lesson after that,25,0.0002,0,1
+spam,1,phony num award todays voda numbers ending xxxx are selected to receive a num award if you have a match please call num quoting claim code num standard rates app,30,0.9999,1,1
+ham,0,my drive can only be read i need to write,10,0.0003,0,1
+ham,0,well its not like you actually called someone a punto that woulda been worse,14,0.005,0,1
+ham,0,ill b down soon,4,0.0019,0,1
+ham,0,oh k i will come tomorrow,6,0.0001,0,1
+spam,1,you have won a guaranteed num cash or a num prize to claim yr prize call our customer service representative on num between num am num pm cost num p,30,1.0,1,1
+ham,0,u attend ur driving lesson how many times a wk n which day,13,0.0001,0,1
+ham,0,babe ! what are you doing where are you who are you talking to do you think of me are you being a good boy are you missing me do you love me,33,0.0001,0,1
+ham,0,great! how is the office today,6,0.0,0,1
+ham,0,it s cool we can last a little while getting more any time soon,14,0.0001,0,1
+ham,0,i was gonna ask you lol but i think its at num,12,0.0003,0,1
+ham,0,ok i vl do u know i got adsense approved,10,0.0,0,1
+ham,0,dunno my dad said he coming home num bring us out num lunch yup i go w u lor i call u when i reach school lor,27,0.0001,0,1
+ham,0,hey next sun num there s a basic yoga course at bugis we can go for that pilates intro next sat tell me what time you r free,28,0.0002,0,1
+ham,0,ok i also wan num watch e num pm show,10,0.0002,0,1
+spam,1,num num num uk break accommodationvouchers terms conditions apply num claim you mustprovide your claim number which is num,19,1.0,1,1
+ham,0,hai dear friends this is my new amp present number by rajitha raj ranju,14,0.0001,0,1
+spam,1,this is the num nd attempt to contract u you have won this weeks top prize of either num cash or num prize just call num,26,1.0,1,1
+ham,0,guy no flash me now if you go call me call me how madam take care oh,17,0.0002,0,1
+ham,0,keep ur problems in ur heart b coz nobody will fight for u only u amp u have to fight for ur self amp win the battle vivekanand g num t sd ham yeah give me a call if you ve got a minute ham hi babe uawake feellikw shit justfound out via aletter thatmum gotmarried num thnov behind ourbacks fuckinnice!selfish deviousbitch anyway i l call u,67,0.0014,0,1
+ham,0,amazing if you rearrange these letters it gives the same meaning dormitory dirty room astronomer moon starer the eyes they see election results lies lets recount mother in law woman hitler eleven plus two twelve plus one its amazing !,40,0.0004,0,1
+ham,0,good morning im suffering from fever and dysentry will not be able to come to office today,17,0.0001,0,1
+ham,0,gokila is talking with you aha,6,0.0004,0,1
+ham,0,ding me on ya break fassyole! blacko from londn,9,0.0001,0,1
+ham,0,the sign of maturity is not when we start saying big things but actually it is when we start understanding small things have a nice evening bslvyl,27,0.0,0,1
+ham,0,oh you got many responsibilities,5,0.0001,0,1
+ham,0,hi chikku send some nice msgs,6,0.0097,0,1
+ham,0,there are some nice pubs near here or there is frankie n bennys near the warner cinema,17,0.0006,0,1
+ham,0,k then come wenever u lik to come and also tel vikky to come by getting free time,18,0.0002,0,1
+ham,0,like lt gt same question,5,0.0001,0,1
+ham,0,lol no i just need to cash in my nitros hurry come on before i crash out!,17,0.0002,0,1
+ham,0,just send a text we ll skype later,8,0.0012,0,1
+ham,0,y she dun believe leh i tot i told her it s true already i thk she muz c us tog then she believe,24,0.0003,0,1
+ham,0,i ve got some salt you can rub it in my open wounds if you like!,16,0.0001,0,1
+ham,0,i m in town now so i ll jus take mrt down later,13,0.0001,0,1
+spam,1,our records indicate u maybe entitled to num pounds in compensation for the accident you had to claim num free reply with claim to this msg num stop txt stop,30,0.9999,1,1
+ham,0,ugh my leg hurts musta overdid it on mon,9,0.0003,0,1
+spam,1,call germany for only num pence per minute! call from a fixed line via access number num num num num no prepayment direct access! url,25,0.9999,1,1
+ham,0,i know you are thinkin malaria but relax children cant handle malaria she would have been worse and its gastroenteritis if she takes enough to replace her loss her temp will reduce and if you give her malaria meds now she will just vomit its a self limiting illness she has which means in a few days it will completely stop,61,0.0001,0,1
+ham,0,i keep ten rs in my shelf buy two egg,10,0.0001,0,1
+ham,0,jane babes not goin num wrk feel ill after lst nite foned in already cover num me chuck,18,0.0002,0,1
+ham,0,nope i m still in the market,7,0.0002,0,1
+ham,0,hey what how about your project started aha da,9,0.0003,0,1
+ham,0,hmm thinking lor,3,0.0009,0,1
+ham,0,gud ni num dear slp well take care swt dreams muah,11,0.0001,0,1
+ham,0,pls speak with me i wont ask anything other then you friendship,12,0.0001,0,1
+spam,1,if you don t your prize will go to another customer t c at url num num p min polo ltd suite num london w num j num hl please call back if busy,34,0.9999,1,1
+ham,0,hi hope ur day good! back from walk table booked for half eight let me know when ur coming over,20,0.0003,0,1
+ham,0,oh yeah clearly it s my fault,7,0.0002,0,1
+spam,1,urgent! you have won a num week free membership in our num num prize jackpot! txt the word claim to no num t c url lccltd pobox num ldnw num a num rw num,34,1.0,1,1
+ham,0,dear where you call me,5,0.0003,0,1
+spam,1,xmas iscoming ur awarded either num cd gift vouchers free entry num r num weekly draw txt music to num tnc url,22,1.0,1,1
+ham,0,alex says he s not ok with you not being ok with it,13,0.0001,0,1
+ham,0,at what time should i come tomorrow,7,0.0001,0,1
+ham,0,about lt gt bucks the banks fees are fixed better to call the bank and find out,17,0.0252,0,1
+ham,0,my sister going to earn more than me da,9,0.0003,0,1
+ham,0,hahaha use your brain dear,5,0.0001,0,1
+ham,0,aah bless! how s your arm,6,0.0001,0,1
+ham,0,neither in sterm voice i m studying all fine with me! not sure the thing will be resolved tho anyway have a fab hols,24,0.0001,0,1
+ham,0,do i i thought i put it back in the box,11,0.0003,0,1
+ham,0,just trying to figure out when i m suppose to see a couple different people this week we said we d get together but i didn t set dates,29,0.0001,0,1
+ham,0,hi mom we might be back later than lt gt,10,0.0001,0,1
+spam,1,dating i have had two of these only started after i sent a text to talk sport radio last week any connection do you think or coincidence,27,0.0002,0,0
+ham,0,ok is any problem to u frm him wats matter,10,0.0002,0,1
+spam,1,the current leading bid is num to pause this auction send out customer care num,15,0.2959,0,0
+ham,0,good day to you too pray for me remove the teeth as its painful maintaining other stuff,17,0.0005,0,1
+ham,0,not much no fights it was a good nite!!,9,0.0,0,1
+ham,0,as in i want custom officer discount oh,8,0.0,0,1
+ham,0,hi hope you had a good day have a better night,11,0.0001,0,1
+ham,0,pls give her prometazine syrup num mls then lt gt mins later feed,13,0.0,0,1
+ham,0,dear are you angry i was busy dear,8,0.0001,0,1
+ham,0,i ask if u meeting da ge tmr nite,9,0.0,0,1
+ham,0,so how are you really what are you up to how s the masters and so on,17,0.0108,0,1
+ham,0,if you can make it any time tonight or whenever you can it s cool just text me whenever you re around,22,0.0001,0,1
+ham,0,thanx a lot num ur help!,6,0.0004,0,1
+ham,0,i m wif him now buying tix lar,8,0.0,0,1
+ham,0,good morning at the repair shop the only reason i m up at this hour,15,0.0001,0,1
+ham,0,just sing hu i think its also important to find someone female that know the place well preferably a citizen that is also smart to help you navigate through even things like choosing a phone plan require guidance when in doubt ask especially girls,44,0.0001,0,1
+ham,0,wishing you a beautiful day each moment revealing even more things to keep you smiling do enjoy it,18,0.0143,0,1
+spam,1,for the most sparkling shopping breaks from num per person call num num or visit url,16,1.0,1,1
+ham,0,if you hear a loud scream in about lt gt minutes its cause my gyno will be shoving things up me that don t belong,25,0.0001,0,1
+ham,0,really do hope the work doesnt get stressful have a gr num day,13,0.0014,0,1
+ham,0,i think if he rule tamilnadu then its very tough for our people,13,0.0002,0,1
+ham,0,cool we shall go and see have to go to tip anyway are you at home got something to drop in later so lets go to town tonight! maybe mum can take us in,34,0.0004,0,1
+spam,1,private! your num account statement for num shows num un redeemed s i m points call num identifier code num expires num num num,24,1.0,1,1
+ham,0,no i dont want to hear anything,7,0.0001,0,1
+ham,0,going to join tomorrow,4,0.0016,0,1
+ham,0,its just the effect of irritation just ignore it,9,0.0001,0,1
+ham,0,i can t believe how attached i am to seeing you every day i know you will do the best you can to get to me babe i will go to teach my class at your midnight,37,0.0001,0,1
+ham,0,anything lor juz both of us lor,7,0.0001,0,1
+ham,0,why don t you wait til at least wednesday to see if you get your,15,0.0001,0,1

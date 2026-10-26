@@ -1,0 +1,16 @@
+{
+  "n_messages": 5572,
+  "n_ham": 4825,
+  "n_spam": 747,
+  "spam_ratio": 0.1341,
+  "mean_tokens_ham": 14.85,
+  "mean_tokens_spam": 27.0,
+  "p95_tokens": 35,
+  "p99_tokens": 56,
+  "max_tokens": 190,
+  "vocab_size": 3231,
+  "train_size": 3899,
+  "val_size": 836,
+  "test_size": 837,
+  "test_spam": 113
+}
