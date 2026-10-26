@@ -14,6 +14,7 @@ Requirements (in addition to the batch pipeline):
 
 import json
 import os
+import re
 
 import streamlit as st
 import torch
@@ -21,6 +22,28 @@ import torch
 from prepare_data import clean_text
 from predict_demo import DEMO_MESSAGES
 from train_lstm import MAX_LEN, OUT_DIR, SMSDataset, SpamLSTM
+
+SPAM_THRESHOLD = 0.5
+# lexical back-off: the UCI corpus is 2007 UK SMS, so contemporary Indian
+# money phrasing ("you have won ... lakh rupees") tokenises poorly and scores
+# near 0; a tiny cue layer catches wording the corpus never saw.
+ACTION_RE = re.compile(
+    r"\b(?:won(?!['’]?t\b)|win(?:n(?:er|ing))?\b|prize|claimed?|"
+    r"congratulations|congrats|urgent(?:ly)?|free\b|jackpot|lottery|"
+    r"guaranteed|click\b|<url>)")
+MONEY_RE = re.compile(
+    r"\b(?:rupees|rs\b|lakh|crore|paise|cash|gift|prize|jackpot)\b|\$|£")
+
+
+def spam_policy(text, spam_prob):
+    low = text.lower()
+    action = {m.group(0) for m in ACTION_RE.finditer(low)}
+    money = {m.group(0) for m in MONEY_RE.finditer(low)}
+    signals = sorted(action | money)
+    is_spam = (spam_prob >= SPAM_THRESHOLD
+               or (bool(action) and bool(money))
+               or len(signals) >= 4)
+    return is_spam, signals
 
 st.set_page_config(
     page_title="Spam Message Detection - LSTM",
@@ -114,10 +137,14 @@ if st.button("Classify message", type="primary"):
     else:
         spam_prob = predict_probability(text)
         n_tokens = min(len(clean_text(text).split()), MAX_LEN)
-        if spam_prob >= 0.5:
+        is_spam, signals = spam_policy(text, spam_prob)
+        if is_spam:
             st.error(f"🚨 SPAM  -  P(spam) = {spam_prob:.1%}")
         else:
             st.success(f"✅ HAM (genuine message)  -  P(spam) = {spam_prob:.1%}")
+        if signals:
+            st.caption(f"Detected signals: {', '.join(signals)} | model "
+                       f"P(spam)={spam_prob:.1%} at threshold {SPAM_THRESHOLD}")
         st.progress(spam_prob, text=f"P(spam) = {spam_prob:.1%} "
                                     f"| {n_tokens} of {MAX_LEN} token slots used")
 
@@ -148,6 +175,12 @@ with col2:
 st.info(
     "The Naive Bayes baseline reaches 97.97% accuracy vs the LSTM's 98.33% - "
     "deep learning beats the classical benchmark on the same split."
+)
+st.caption(
+    "Deployed policy note: sentences using phrasing outside the 2007 UK corpus "
+    "(e.g. 'you have won ... lakh rupees') also trigger a lexical spam-signal "
+    "back-off on top of the LSTM itself - both signals and model probability "
+    "are shown above."
 )
 
 st.divider()
